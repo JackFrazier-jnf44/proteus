@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.pdb
+*.cif
+*.mmcif
+*.a3m
+*.pkl
+checkpoints/
+outputs/
+logs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Type checking cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# macOS system files
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+.env.local 
